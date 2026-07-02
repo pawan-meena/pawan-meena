@@ -1,6 +1,3 @@
-Bhai, isko ekdum next-level aur modern GitHub README banate hain! Purane Simple-Icons ke static links ki jagah dynamic dynamic badges, GitHub Stats cards, aur structured layouts use karenge jo dark mode aur light mode dono me solid dikhe. Aapka "Fun fact" aur cricket/PHP wala humor bhi intact rakha hai.
-
-Yeh lo ekdum chamakta hua updated code, ise copy karke apni `README.md` me paste kar do:
 
 ```markdown
 <h1 align="center">
