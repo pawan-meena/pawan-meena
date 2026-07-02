@@ -1,32 +1,60 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"/>
+Bhai, isko ekdum next-level aur modern GitHub README banate hain! Purane Simple-Icons ke static links ki jagah dynamic dynamic badges, GitHub Stats cards, aur structured layouts use karenge jo dark mode aur light mode dono me solid dikhe. Aapka "Fun fact" aur cricket/PHP wala humor bhi intact rakha hai.
+
+Yeh lo ekdum chamakta hua updated code, ise copy karke apni `README.md` me paste kar do:
+
+```markdown
+<h1 align="center">
+  Hi there, I'm Pawan Meena! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35"/>
+</h1>
+
 <p align="center">
-<a href="https://twitter.com/PawanSattawan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pawanmeena"  height="30" width="30" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/pawansattawan/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pawanmeena" height="30" width="30" /></a>&nbsp;
-<a href="https://www.instagram.com/pawansattawan_/" target="_blank"><img align="center" alt="pawanmeena"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" /></a>
+  <a href="https://twitter.com/PawanSattawan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pawansattawan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/pawansattawan_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
+---
 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-### 🤵 About Me:
-- 🏦 I'm a Software Engineer working in India 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.html**,**.css**, **.javascript**, **.php**, **.sql**
-- 📖 I am currently reading Engineer ECE
-- 💬 Talk to me about cricket, php (both of these are not any kind of insect or animals), silicon valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: tune kya kar liya
+*   🏦 **Role:** Software Engineer based in India.
+*   💻 **Daily Stack:** Crafting code with `.html`, `.css`, `.javascript`, `.php`, and `.sql`.
+*   📖 **Learning:** Currently diving into **ECE Engineering** concepts.
+*   💬 **Let's Talk:** Cricket, PHP *(relax, neither of these are insects or animals)*, Silicon Valley, & Startups.
+*   👯 **Connect:** Hit me up for a quick game of **Chess** ♟.
+*   ⚡ **Fun Fact:** *Tune kya kar liya?* 😉
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="85" height="70"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <br>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawansattawan&show_icons=true&theme=gotham&count_private=true" alt="Pawan's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawansattawan&theme=gotham" alt="GitHub Streak" height="180px"/>
 </p>
 
 ---
@@ -41,7 +69,8 @@
 🌙 Night      51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
 Monday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
@@ -54,13 +83,4 @@ Sunday       88 commits     ██████░░░░░░░░░░░�
 
 ```
 
-
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.58 % as on ⏰ 8-4-2021.
-
 ---
-
-
-
